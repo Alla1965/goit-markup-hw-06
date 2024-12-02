@@ -1,2 +1,1 @@
-
-https://alla1965.github.io/goit-markup-hw-05/
+https://github.com/Alla1965/goit-markup-hw-06
